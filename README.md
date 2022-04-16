@@ -1,15 +1,16 @@
+![MasterHead](https://media.discordapp.net/attachments/956749954322407474/964960343753375784/image.png?width=1440&height=432)
 # Fandom Reported Posts Bot
 This JS bot fetches new reported posts from a Fandom wiki, and then sends them to a Discord channel. Just something I recreated.
 
 ## Installation
 Make sure to use Repl.it for this bot.
-'''To install the required packages, run:'''
+To install the required packages, run:
 ```console
 $ npm install
 ```
 
 ## Configuration
-Configuration is set using environment variables. You can also store them in a `.env` file in the same directory.
+The configuration is set using environment variables. Store the variable in a `.env` file in the same directory that you used for Repl.it.
 * `FANDOM_USERNAME` - Fandom account username
 * `FANDOM_PASSWORD` - Fandom account password
 * `FANDOM_WIKI` - Interwiki to the Fandom wiki (e.g. `test` or `fr.test`)
@@ -19,7 +20,7 @@ Configuration is set using environment variables. You can also store them in a `
 * `INTERVAL` - Amount of time in seconds between checks (optional, defaults to `30`)
 
 ## Running
-To run the bot after having it configured, use:
+To run the bot after having it configured, use these commands shown below:
 ```console
 $ npm start
 ```
