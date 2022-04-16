@@ -1,5 +1,5 @@
 {
-	"name": "Report Posts Bot",
+	"name": "fandom-reported-posts-bot",
 	"version": "1.0.0",
 	"description": "Fetches new reported posts on Fandom and sends them to a Discord server.",
 	"scripts": {
