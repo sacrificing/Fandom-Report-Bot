@@ -1,4 +1,4 @@
-![MasterHead](https://media.discordapp.net/attachments/956749954322407474/964960343753375784/image.png?width=1440&height=432)
+![MasterHead](https://media.discordapp.net/attachments/956749954322407474/964963709179015188/image.png?width=1440&height=432)
 # Fandom Reported Posts Bot
 This JS bot fetches new reported posts from a Fandom wiki, and then sends them to a Discord channel. Just something I recreated.
 
